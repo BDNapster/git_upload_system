@@ -11,6 +11,7 @@ Stage 2:
 2. git add adding_file_name(like README.md)
 3. git commit -m "first commit"
 4. git remote add origin repo_path(like git@github.com:BDNapster/paymentdue_onepage_html.git)
-5. git pull origin master
+5. git pull (repo_path) [if you want to download]
 6. git push -u origin master
 
+Helpfull link:https://gist.github.com/blackfalcon/8428401
